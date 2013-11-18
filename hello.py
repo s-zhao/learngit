@@ -11,5 +11,7 @@ def hello():
 	print "hello world"
 
 if __name__ == '__main__':
+	"""python magic __name__ and __main__ usage
+	"""
 	hello()
 
